@@ -1,0 +1,160 @@
+.bg {
+background-image: url('../img/bg12.jpeg') !important;
+background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.header {
+height: 70px;
+background-color: #343a40!important;
+}
+.header img {
+    height: 70px;
+    float: left
+    
+}
+
+.header button {
+    float: right;
+    margin: 15px 5px;
+    min-width: 100px;
+    color: #fff;
+    background-color: rgb(13 151 76);
+    border: 1px solid rgb(13 169 84);
+}
+
+.header button:hover {
+    color: #000;
+    background-color: rgb(13 151 76);
+    border: none
+}
+.control .addads {
+    margin: 7px  0;
+    color: #fff !important;
+   
+   
+}
+.control .addads a {
+
+text-decoration: none;
+
+    
+}
+.modal-body .filterBtn {
+    background-color: rgb(173 221 184) !important;
+    color: rgb(2 116 58) !important;
+    border: 1px solid rgb(117 171 130) !important;
+    width:100% !important;
+    
+}
+
+.control  .searchs {
+    height: 100px;
+    width: 100%;
+    
+    line-height: 100px
+}
+.control  .searchs .form-inline {
+    display: block;
+}
+.control .searchs .input {
+    width: 40%;
+    height: 50px;
+    margin:  0 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 20px
+}
+.control .searchs .clicksearchs{
+    background-color: #fff;
+    color: #000;
+    
+    margin-right: 55px ;
+    height: 40px;
+}
+.control .searchs .clicksearchs:hover {
+    color: #fff;
+    background-color: #ff8300;
+}
+.control .searchs .select{
+    width: 40%;
+    height: 50px;
+    margin:  0 20px;
+    border-radius: 5px;
+    border: none;
+    padding: 20px
+}
+.container .btnselect {
+    background-color: #ff8300;
+    border:5px solid #fff;
+    border-radius: 10px;
+    width: 33.3%;
+    color:#fff
+}
+.container .btnselect:hover {
+    background-color: #0098d0;
+}
+.ads {
+    padding: 20px 0 ;
+}
+ .ads .card{
+    height: 475px;
+    overflow: hidden;
+    padding: 1px;
+    margin: 10px 10px;
+
+} 
+.ads .card img{
+    height: 250px;
+    object-fit: contain;
+} 
+
+.ads .card h5{
+    height: 45px;
+   
+}
+.ads .card p{
+    height: 80px;
+    overflow: hidden;
+}
+
+.ads .row span{
+background-color: rgba(0, 0, 0, 0.8);
+position: absolute;
+color: #fff;
+padding: 5px;
+min-width: 50px;
+}
+
+
+.commercial-asd {
+   
+    padding: 5%;
+}
+.commercial-asd h2{
+    font-size: 30px;
+    margin-bottom: 20px
+}
+
+.commercial-asd .kolo{
+    width: 100%;
+    height: 50px;
+    padding: 12px;
+    background-color: #f5f7fa;
+    margin:  1% 0; 
+    border: none
+}
+.commercial-asd .kolo .radio {
+    float: left;
+    width: 50%;
+}
+.commercial-asd .btn {
+    width: 50%;
+    height: 50px;
+    background-color: #0098d0;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+    margin: 20px 25%
+}
